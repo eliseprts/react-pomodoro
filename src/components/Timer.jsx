@@ -3,7 +3,7 @@ import TimerContainer from "./TimerContainer"
 import Btns from "./Btns"
 import Modal from "./Modal"
 
-import TimerStyle from '../src/style/Timer.css'
+import TimerStyle from '../style/Timer.css'
 
 function Timer() {
 
