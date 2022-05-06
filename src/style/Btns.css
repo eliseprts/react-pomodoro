@@ -9,3 +9,9 @@ button {
     font-size: 1em;
     cursor: pointer;
 }
+
+button:hover {
+    background-color: #2ebf91;
+    box-shadow: 19px 19px 48px 1px rgba(115,115,115,0.75);
+    transform: scale(0.9);
+}
