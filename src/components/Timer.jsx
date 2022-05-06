@@ -51,7 +51,7 @@ function Timer() {
     const reset = () => {
         clearInterval(interv);
         setStatus(0);
-        setTime({ s: 15, m: 0 });
+        setTime({ s: 0, m: 25 });
     };
 
     // RESUME COUNTDOWN

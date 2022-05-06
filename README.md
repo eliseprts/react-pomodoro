@@ -3,7 +3,8 @@
 _Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)_
 
 -   Mode : solo work
--   Typf of challenge : learning
+-   Type of challenge : learning
+-   [Deployed app](https://rococo-arithmetic-3c018f.netlify.app/)
 
 ## Technologies used
 
@@ -30,3 +31,7 @@ The app will be build with Parcel.
 <p align="center">
     <img src="/src/assets/overview.png" width="500"/>
 </p>
+
+### Deployed app
+
+[Here](https://rococo-arithmetic-3c018f.netlify.app/)
