@@ -29,7 +29,7 @@ function Timer() {
             clearInterval(interv);
             setStatus(0);
             console.log("times up");
-            return setTime({ s: 15, m: 0 });
+            return setTime({ s: 0, m: 25 });
         }
         else if (updatedS === 0) {
             updatedM--;
