@@ -28,5 +28,5 @@ The app will be build with Parcel.
 ### Overview
 
 <p align="center">
-    <img src="/src/assets/overview.png" width="800"/>
+    <img src="/src/assets/overview.png" width="500"/>
 </p>

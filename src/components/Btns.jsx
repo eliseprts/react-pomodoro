@@ -1,6 +1,6 @@
 import react from "react"
 
-import Button1Style from "../style/Button1.css"
+import BtnStyle from "../style/Btns.css"
 
 function Btns(props) {
     return (
