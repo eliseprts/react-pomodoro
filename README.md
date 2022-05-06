@@ -22,3 +22,11 @@ The app will be build with Parcel.
 -   [ ] At the end of the timer, show a modal to invite user to take a break. The modal will have two buttons:
     -   one to close the modal
     -   another to close the modal and start a new timer
+
+## Result
+
+### Overview
+
+<p align="center">
+    <img src="/src/assets/overview.png" width="800"/>
+</p>
