@@ -1,13 +1,13 @@
 import React from "react"
 
 import Title from "./components/Title"
-import Countdown from "./components/Countdown"
+import Timer from "./components/Timer"
 
 function App() {
     return (
         <div className="App">
             <Title />
-            <Countdown />
+            <Timer />
         </div>
     )
 }
